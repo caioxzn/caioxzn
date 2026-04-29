@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Oi, meu nome é caio 👋
+Analista e desenvolvedor de software. Email: caiopacifico55@gmail.com
 <!--
 **caioxzn/caioxzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
